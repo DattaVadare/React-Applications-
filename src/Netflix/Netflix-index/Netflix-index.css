@@ -1,0 +1,12 @@
+.bg-image {
+  height: 100vh;
+  background-image: url("../../../public/images/NetFlixBanner.jpg");
+  background-size: cover;
+
+}
+
+.bg-shade {
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.8);
+
+}

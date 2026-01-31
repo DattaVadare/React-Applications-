@@ -1,0 +1,15 @@
+{
+  "title": "Apple iPhone 16 (Black, 128 GB)",
+  "price": 58000.00,
+  "rating": {
+    "rate": 4.6,
+    "count": 31769
+  },
+  "image": "images/iphone16.png",
+  "offers": [
+    "Bank Offer10% off up to ₹2,000 on ICICI Bank Credit Card Transactions, on orders of ₹4,990 and aboveT&C",
+    "Bank Offer10% off up to ₹2,500 on ICICI Bank Credit Card EMI Transactions, on orders of ₹4,990 and above",
+    "Bank Offer5% cashback on Axis Bank Flipkart Debit Card up to ₹750T&C",
+    "Bank Offer15% cashback on HDFC Bank Flipkart Debit Card up to ₹750T&C"
+  ]
+}
