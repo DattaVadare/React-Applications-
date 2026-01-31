@@ -5,8 +5,9 @@ export function NetFlixIndex() {
   return (
     <div className="bg-image">
       <div className="bg-shade">
-        <NetflixHeader></NetflixHeader>
-        <NetflixMain></NetflixMain>
+        {/* <NetflixHeader></NetflixHeader> */}
+        {/* <NetflixMain></NetflixMain> */}
+        <DataBinding></DataBinding>
 
       </div>
     </div>
