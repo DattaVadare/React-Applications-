@@ -7,7 +7,8 @@ export function NetFlixIndex() {
       <div className="bg-shade">
         {/* <NetflixHeader></NetflixHeader> */}
         {/* <NetflixMain></NetflixMain> */}
-        <DataBinding></DataBinding>
+        {/* <DataBinding></DataBinding> */}
+        <NonPriDataBinding></NonPriDataBinding>
 
       </div>
     </div>
