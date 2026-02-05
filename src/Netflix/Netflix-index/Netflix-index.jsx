@@ -8,7 +8,9 @@ export function NetFlixIndex() {
         {/* <NetflixHeader></NetflixHeader> */}
         {/* <NetflixMain></NetflixMain> */}
         {/* <DataBinding></DataBinding> */}
-        <NonPriDataBinding></NonPriDataBinding>
+        {/* <NonPriDataBinding></NonPriDataBinding> */}
+        <ProductObject></ProductObject>
+
 
       </div>
     </div>
