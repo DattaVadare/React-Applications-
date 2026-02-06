@@ -9,7 +9,8 @@ export function NetFlixIndex() {
         {/* <NetflixMain></NetflixMain> */}
         {/* <DataBinding></DataBinding> */}
         {/* <NonPriDataBinding></NonPriDataBinding> */}
-        <ProductObject></ProductObject>
+        {/* <ProductObject></ProductObject> */}
+        <IPLPointTable></IPLPointTable>
 
 
       </div>
