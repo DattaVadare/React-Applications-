@@ -1,3 +1,4 @@
+import { FormDemo } from '../../Componants/FormDemo';
 import { NetflixMain } from '../Netflix-Main/Netflix-main';
 import { NetflixHeader } from '../Netflix-header/Netflix-header';
 import './Netflix-index.css';
@@ -11,7 +12,8 @@ export function NetFlixIndex() {
         {/* <NonPriDataBinding></NonPriDataBinding> */}
         {/* <ProductObject></ProductObject> */}
         {/* <IPLPointTable></IPLPointTable> */}
-        <TwoWayInputExample></TwoWayInputExample>
+        {/* <TwoWayInputExample></TwoWayInputExample> */}
+        <FormDemo></FormDemo>
 
 
       </div>

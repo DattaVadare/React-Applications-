@@ -19,13 +19,14 @@ import { PassLength } from './Componants/KeyUpEventForPassLength';
 import { Iphone16 } from './Componants/Iphone';
 import { MultipleProduct } from './Componants/MultipleProduct';
 import { NasaData } from './Componants/NasaAPIAccess';
+import { FormDemo } from './Componants/FormDemo';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <NetFlixIndex></NetFlixIndex>
-
+    {/* <NetFlixIndex></NetFlixIndex> */}
+    <FormDemo></FormDemo>
 
   </React.StrictMode>
 );
