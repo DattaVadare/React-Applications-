@@ -10,10 +10,11 @@ export function FormDemo() {
       border: "1px solid #ccc",
       borderRadius: "8px",
       fontFamily: "Arial"
+
     },
     heading: {
       textAlign: "center",
-      marginBottom: "15px"
+      marginBottom: "16px"
     },
     dt: {
       fontWeight: "bold",
